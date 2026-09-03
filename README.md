@@ -123,9 +123,9 @@ mist in the atmosphere, detailed metallic surfaces,
 wide-angle camera view, deep urban background, dramatic
 reflections, detailed science-fiction environment, realistic
 lighting and depth.
-<img width="1536" height="1024" alt="ChatGPT Image Sep 3, 2026, 07_20_35 AM" src="https://github.com/user-attachments/assets/16170cd5-dc11-4866-a185-27b58aa5d27c" />
 
 ```
+<img width="1536" height="1024" alt="ChatGPT Image Sep 3, 2026, 07_20_35 AM" src="https://github.com/user-attachments/assets/41340511-6a38-4b32-acbd-50f1bc762ed3" />
 
 ## Comparison Report – Example 2
 
