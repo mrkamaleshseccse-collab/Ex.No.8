@@ -77,7 +77,8 @@ minimal furniture and no unnecessary decorations.
 The generated image successfully reproduced the main elements of the reference, including the Japanese tea room, bonsai tree, and tea set. The natural wooden and cream color scheme was also represented well. The soft lighting helped create a similar peaceful atmosphere. The overall minimalist composition was maintained, although the exact size, shape, and position of some objects could differ slightly.
 
 **Overall:** The final prompt produced a closer result because it contained specific information about the room, materials, lighting, composition, and visual style.
-https://chatgpt.com/s/m_6a98d1b895dc81918c52ffb3201aff97
+<img width="1536" height="1024" alt="ChatGPT Image Sep 3, 2026, 07_18_42 AM" src="https://github.com/user-attachments/assets/cb8d01e1-f9a9-451a-8ae9-3f4a9d2072d7" />
+
 ---
 
 # EXAMPLE 2 – FUTURISTIC CITY AT NIGHT
@@ -122,6 +123,8 @@ mist in the atmosphere, detailed metallic surfaces,
 wide-angle camera view, deep urban background, dramatic
 reflections, detailed science-fiction environment, realistic
 lighting and depth.
+<img width="1536" height="1024" alt="ChatGPT Image Sep 3, 2026, 07_20_35 AM" src="https://github.com/user-attachments/assets/16170cd5-dc11-4866-a185-27b58aa5d27c" />
+
 ```
 
 ## Comparison Report – Example 2
